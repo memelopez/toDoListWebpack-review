@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(189, 189, 189);
+}
+
+.appItem {
+  height: 50px;
+  background-color: white;
+}
+
+.btmDiv {
+  height: 65px;
+  background-color: rgb(240, 240, 240);
+}
+
+.noToDos {
+  color: rgb(148, 74, 64);
+}
+
+.appItemEdit {
+  height: 50px;
+  background-color: lightyellow;
+}
